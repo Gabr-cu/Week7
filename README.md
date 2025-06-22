@@ -11,7 +11,7 @@ Features
 - Clear and simple output
 
 How to Run
-### Option 1: Using Visual Studio
+Option 1: Using Visual Studio
 1. Create a new Console App project named `SimpleCalculator`.
 2. Replace the `Program.cs` code with the code provided.
 3. Press `Ctrl + F5` to run the program.
